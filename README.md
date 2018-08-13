@@ -4,7 +4,7 @@ This repository hosts the code conducting bubble testing based on Phillips, Shi 
 
 The result can be presented in the following way (this example uses weekly S&P 500 price index data):
 
-![Weekly S&P 500 data](C:\Users\Zhan\Dropbox\Research\BubbleTest\SPX_combine.png)
+![Weekly S&P 500 data](SPX_combine.png)
 
 
 
