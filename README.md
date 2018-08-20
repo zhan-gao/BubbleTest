@@ -1,6 +1,6 @@
 # BubbleTest
 
-This repository hosts the code conducting bubble testing based on Phillips, Shi and Yu (2015) and the `MultipleBubbles` package. A brief note will be included.
+This repository hosts the code conducting bubble testing based on Phillips, Shi and Yu (2015) and the `MultipleBubbles` package. [A brief note](https://github.com/zhan-gao/BubbleTest/blob/master/Note%20on%20Bubble%20Test.md) will be included.
 
 The result can be presented in the following way (this example uses weekly S&P 500 price index data):
 
